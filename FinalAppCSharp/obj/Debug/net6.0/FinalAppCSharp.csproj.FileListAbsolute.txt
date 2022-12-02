@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\bin\Debug\net6.0\FinalAppCSharp.exe
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\bin\Debug\net6.0\FinalAppCSharp.deps.json
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\bin\Debug\net6.0\FinalAppCSharp.runtimeconfig.json
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\bin\Debug\net6.0\FinalAppCSharp.dll
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\bin\Debug\net6.0\FinalAppCSharp.pdb
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.dll
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\refint\FinalAppCSharp.dll
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.pdb
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\FinalAppCSharp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\P230\FinalAppCSharp\FinalAppCSharp\obj\Debug\net6.0\ref\FinalAppCSharp.dll
