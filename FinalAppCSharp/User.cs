@@ -33,7 +33,7 @@ namespace FinalAppCSharp
             Id = ++_count;
             Name = name;
             Surname = surname;
-            Balance = balance;
+            Balance = 0;
             Email = email;
             Password = password;
             IsAdmin = false;

@@ -57,6 +57,19 @@ namespace FinalAppCSharp.Services
             return true;
         }
 
+        public void BankUserList(User user)
+        {
+            if (user.IsAdmin)
+            {
+                _repository.BankUserList();
+            }
+            else
+            {
+                Console.WriteLine("Siz Admin Deyilsiz");
+            }
+        }
+
+
 
     }
 }

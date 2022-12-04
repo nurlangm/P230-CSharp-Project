@@ -61,7 +61,7 @@ namespace FinalAppCSharp.Repositories
 
         }
 
-        public string FindUser(string email)
+        public bool FindUser(string email)
         {
             throw new NotImplementedException();
 
@@ -76,9 +76,9 @@ namespace FinalAppCSharp.Repositories
 
         public bool UserLogin(User user, string logemail, string logpas)
         {
-            if (user.Email == logemail && user.Password == logpas)
+            if (user.Email != logemail || user.Password != logpas)
             {
-
+                return false;
             }
             return true;
         } //???

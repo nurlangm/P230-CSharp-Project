@@ -16,7 +16,7 @@ namespace FinalAppCSharp.Repositories
 
         bool UserLogin(User user, string logemail, string logpas);
 
-        string FindUser(string email);
+        bool FindUser(string email);
 
         //Login Olduqdan sonra
 

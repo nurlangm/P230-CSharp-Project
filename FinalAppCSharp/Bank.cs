@@ -9,14 +9,8 @@ namespace FinalAppCSharp
     internal class Bank
     {
         public int Id;
-        public  string Users;
-
-
-        public Bank(int id, string users)
-        {
-            Id = id;
-            Users = users;  
-        }
+        public User[] Users;
+        
     }
 }
  
